@@ -28,12 +28,6 @@ The project was built as a learning exercise to understand the mathematical foun
 
 The fitted model was **SARIMA(1,1,1)(1,1,1,12)** — one autoregressive term, one differencing step, one moving average term, with a seasonal period of 12 months.
 
-### Forecast Plot
-![Forecast](plot.png)
-
-### Decomposition Plot
-![Decomposition](plot1.png)
-
 ### Model Summary (SARIMAX Results)
 
 ```
